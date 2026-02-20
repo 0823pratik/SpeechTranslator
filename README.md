@@ -92,3 +92,7 @@ app/
 └── jniLibs/arm64-v8a/libtranslator_native.so
 ```
 
+## Contributor
+Meet Rana (ee23b070@iittp.ac.in)
+Pratik Raj (ee23b042@iittp.ac.in)
+Praval Gupta (ee23b043@iittp.ac.in)
