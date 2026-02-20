@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/tag_bg_purple.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#130D1E" />
+    <corners android:radius="6dp" />
+    <stroke
+        android:width="1dp"
+        android:color="#3D2860" />
+</shape>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/gradient_accent_bar.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:startColor="#4F8EF7"
+        android:endColor="#7B5EA7"
+        android:angle="0"
+        android:type="linear" />
+</shape>
